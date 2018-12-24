@@ -6,6 +6,7 @@ The server is here only to store ES in a database.
 
 # Reference
   - [Ross Tuck article](http://rosstuck.com/a-case-for-event-sourcing-in-js-browser-apps)
+  - It is also similar to document system presented by Jan Ypma at Scala Days Berlin 2018 "Building a reative multi-user document editor in ScalaJS"
 
 # Techno
 
